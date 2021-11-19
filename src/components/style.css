@@ -1,0 +1,36 @@
+.body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Shippori Antique B1', sans-serif;
+    width: 60vh;
+    height: 50vh;
+    font-size: 1rem;
+} 
+
+.titulo {
+    color: #00CED1;
+    border: 1vh solid #00CED1;
+    height: 60%;
+}
+  
+.nome {    
+    color: #7FFFD4;
+    border: 0.5vh solid; 
+    border-radius: .8rem;    
+}
+
+.nomePais {
+    color: #00FFFF;
+    border: 0.5vh solid;
+    border-radius: .8rem;
+    transition:all 0.3s ease;
+}
+
+.imagemCidade {
+    width: 70%;
+    height: 50%;
+    border: 0.4vh solid #7FFFD4;
+    transition:all 0.3s ease;	   
+}
+
